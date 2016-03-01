@@ -1,0 +1,28 @@
+{
+  "name": "JavaScript-Snake",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "This multiplayer snake game was built to try out canvas, node.js with websockets, and coffeescript.",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhsjlw/JavaScript-Snake.git"
+  },
+  "keywords": [
+    "snake",
+    "multiplayer",
+    "socketio"
+  ],
+  "author": "mhsjlw <mhsjlw@aol.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhsjlw/JavaScript-Snake/issues"
+  },
+  "homepage": "https://github.com/mhsjlw/JavaScript-Snake#readme"
+}
