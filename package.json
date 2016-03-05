@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "description": "This multiplayer snake game was built to try out canvas, node.js with websockets, and coffeescript.",
+  "description": "A multiplayer JavaScript snake game.",
   "main": "app.js",
   "devDependencies": {},
   "repository": {

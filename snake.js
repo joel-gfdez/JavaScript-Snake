@@ -106,6 +106,14 @@ class Snake {
     return collision;
   }
   
+  getLength() {
+    return this.length
+  }
+  
+  addLength(i) {
+    this.length + i;
+  }
+  
 }
 
 module.exports = Snake;
